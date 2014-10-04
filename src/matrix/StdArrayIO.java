@@ -5,7 +5,10 @@
  */
 
 package matrix;
-
+/**
+ *
+ * @author juliocesar
+ */
 public class StdArrayIO {
 
     // it doesn't make sense to instantiate this class

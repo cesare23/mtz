@@ -5,9 +5,10 @@
  */
 
 package matrix;
-
-
-
+/**
+ *
+ * @author juliocesar
+ */
 
 public class Matrix {
 

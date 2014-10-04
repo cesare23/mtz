@@ -15,7 +15,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author 12
+ * @author juliocesar
  */
 public class MatrixTest {
     

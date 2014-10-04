@@ -5,6 +5,10 @@
  */
 
 package matrix;
+/**
+ *
+ * @author juliocesar
+ */
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Locale;
